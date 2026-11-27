@@ -221,3 +221,9 @@ __marimo__/
 
 # Streamlit
 .streamlit/secrets.toml
+
+# Lab cookie jars
+cookies.txt
+
+# Local Claude Code instructions
+CLAUDE.md
